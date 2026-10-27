@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Time Doctor is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.timedoctor.com/
+Time Doctor provides workforce visibility and productivity tracking solutions for distributed teams, offering time‑tracking, activity monitoring, payroll integration, AI‑driven insights, and capacity planning tools to help managers optimize performance and resource allocation across projects.
+
+**Areas:** Company · TimeTracking · WorkforceManagement · Productivity · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.timedoctor.com/)
+- [Documentation](https://www.timedoctor.com/)
+- [Pricing](https://www.timedoctor.com/pricing)
+- [Blog](https://www.timedoctor.com/blog)
+- [Terms of service](https://www.timedoctor.com/terms-of-service)
+- [Privacy policy](https://www.timedoctor.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/time-doctor/](https://apis.io/providers/time-doctor/).
